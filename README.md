@@ -538,7 +538,13 @@ npx shadcn@latest add button card input label select
 - **Bundle Size**: ~500KB (production build)
 - **Lighthouse Score**: 95+ (Performance, Accessibility, Best Practices, SEO)
 
----
+<img width="780" height="413" alt="image" src="https://github.com/user-attachments/assets/354caa55-9acf-411d-8dd0-a5cf67998b48" />
+<img width="935" height="431" alt="image" src="https://github.com/user-attachments/assets/1a4af56c-7bb0-4ee0-8648-72c6b9b55712" />
+<img width="928" height="434" alt="image" src="https://github.com/user-attachments/assets/6273b4f0-c1ba-40bf-a761-c98826a82657" />
+
+
+
+
 
 ## 🤝 Contributing
 
