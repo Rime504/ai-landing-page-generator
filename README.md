@@ -97,9 +97,48 @@ npm run dev
 
 Visit `http://localhost:3000` and start generating high-converting landing pages instantly.
 
-## 📈 Perfect Match for Your Full-Stack JavaScript Developer Role
+## � Deployment
 
-> **I'm applying for your Full-Stack JavaScript Developer position.** This project demonstrates I have the exact skills and mindset you're looking for:
+### Deploy to Vercel (Recommended)
+
+1. **Connect GitHub to Vercel**:
+   - Go to [vercel.com](https://vercel.com) and sign in with your GitHub account
+   - Click "Import Project" and select your repository: `https://github.com/Rime504/ai-landing-page-generator`
+
+2. **Configure Environment Variables**:
+   - In Vercel dashboard, go to your project settings
+   - Add environment variable: `GROQ_API_KEY` with your Groq API key
+
+3. **Deploy**:
+   - Click "Deploy" - Vercel will automatically build and deploy your Next.js app
+   - Your app will be live at `https://your-project-name.vercel.app`
+
+### Alternative: Manual Vercel CLI Deployment
+
+```bash
+# Install Vercel CLI
+npm install -g vercel
+
+# Login to Vercel
+vercel login
+
+# Deploy to production
+vercel --prod
+```
+
+### Environment Variables Required
+
+Create a `.env.local` file in your project root:
+
+```
+GROQ_API_KEY=your_groq_api_key_here
+```
+
+Get your API key from [Groq Console](https://console.groq.com/).
+
+## �📈  Full-Stack JavaScript Developer Role
+
+This project demonstrates:
 > 
 > - ✅ **Next.js Expertise**: Built with Next.js 14, API routes, and modern React patterns
 > - ✅ **AI-Centric Development**: Daily AI usage for productivity (built this with Claude)
@@ -110,13 +149,13 @@ Visit `http://localhost:3000` and start generating high-converting landing pages
 > - ✅ **Bonus Skills**: TailwindCSS, shadcn/ui, SEO-ready, CRO mindset
 > - ✅ **Measurable Results**: 2-3 second generation, production deployments
 > 
-> **Let's discuss how I can bring this speed and AI-powered approach to your team.** [Schedule a call](mailto:your-email@example.com) or check my [LinkedIn](https://linkedin.com/in/your-profile).
+> **Let's discuss how I can bring this speed and AI-powered approach to your team.** [Schedule a call](mailto:rimerizha@example.com) or check my [LinkedIn](https://www.linkedin.com/in/rimek000/).
 
 ---
 
 **Built with ❤️ and AI assistance. Deployed on Vercel. Ready to scale.** 
 
-[View Live Demo](https://your-vercel-url.vercel.app) | [GitHub Repository](https://github.com/Rime504/ai-landing-page-generator) | [Apply for the Role](#)
+[View Live Demo](https://your-vercel-url.vercel.app) | [GitHub Repository](https://github.com/Rime504/ai-landing-page-generator) 
 
 ### Installation
 
